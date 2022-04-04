@@ -1,0 +1,9 @@
+{
+  "workbench.colorCustomizations": {
+    "editor.findMatchHighlightBackground": "#ff0000",
+    "editor.findMatchBackground": "#c00",
+    //        "searchEditor.findMatchBackground": "#ff0000",
+    "editor.selectionBackground": "#f00", // red hexadecimal code
+    "editor.selectionHighlightBackground": "#c00" // white hex code
+  }
+}
